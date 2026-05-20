@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "updated": "2024-01-20T00:00:00Z",
+  "modules": {
+    "weather": {
+      "name": "天气预报",
+      "description": "查询全国各城市的实时天气和未来预报",
+      "category": "life",
+      "type": "h5",
+      "icon": "https://raw.githubusercontent.com/git-spec-xy/yzytoolbox/main/icons/weather.png",
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/git-spec-xy/yzytoolbox/releases/download/modules-v1.0.0/weather.zip",
+          "size": 2826,
+          "md5": ""
+        }
+      }
+    },
+    "calculator": {
+      "name": "科学计算器",
+      "description": "支持科学计算、单位转换、货币换算",
+      "category": "life",
+      "type": "h5",
+      "icon": "https://raw.githubusercontent.com/git-spec-xy/yzytoolbox/main/icons/calculator.png",
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/git-spec-xy/yzytoolbox/releases/download/modules-v1.0.0/calculator.zip",
+          "size": 2120,
+          "md5": ""
+        }
+      }
+    }
+  }
+}

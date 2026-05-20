@@ -32,7 +32,7 @@ import okhttp3.Response;
 
 public class ModuleManager {
     private static final String TAG = "ModuleManager";
-    private static final String MANIFEST_URL = "https://raw.githubusercontent.com/git-spec-xy/yzytoolbox/main/manifest.json";
+    private static final String MANIFEST_URL = "https://raw.githubusercontent.com/git-spec-xy/yzytoolbox/main/app/manifest.json";
     private static final String MODULES_DIR = "modules";
     
     private final Context context;
